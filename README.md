@@ -6,7 +6,7 @@ This project demonstrates a simple data transformation and loading process, focu
 2. PostgreSQL Loading: It establishes a connection to a PostgreSQL database and loads the transformed data into an appropriate table
 
 # Dependencies:
-Python 3.11
-pandas
-psycopg2
-PostgreSQL
+- Python 3.11
+- pandas
+- psycopg2
+- PostgreSQL
